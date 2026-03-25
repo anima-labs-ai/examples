@@ -1,0 +1,20 @@
+{
+	"name": "vercel-ai-agent",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Streaming AI agent with Vercel AI SDK and Anima email tools",
+	"scripts": {
+		"start": "tsx index.ts"
+	},
+	"dependencies": {
+		"@ai-sdk/openai": "^1.0.0",
+		"@anima-labs/sdk": "^0.1.0",
+		"ai": "^4.0.0",
+		"dotenv": "^16.4.0",
+		"zod": "^3.23.0"
+	},
+	"devDependencies": {
+		"tsx": "^4.0.0",
+		"typescript": "^5.5.0"
+	}
+}
