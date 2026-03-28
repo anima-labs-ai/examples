@@ -12,6 +12,9 @@ Each example is a standalone project you can clone and run. They cover email, me
 | [openai-terminal](./openai-terminal) | Python | Terminal chat agent using the OpenAI Agents SDK with email tools powered by Anima |
 | [vercel-ai-agent](./vercel-ai-agent) | TypeScript | Streaming AI agent using the Vercel AI SDK with Anima email tools |
 | [card-provisioning](./card-provisioning) | TypeScript | Provision virtual cards for AI agents, create spending policies, and list transactions |
+| [ecommerce-agent](./ecommerce-agent) | Python | E-commerce purchasing agent using email, virtual cards, and vault together |
+| [support-agent](./support-agent) | Python | Customer support agent with AI triage, email handling, and escalation |
+| [travel-agent](./travel-agent) | Python | Travel booking agent combining AI planning, cards, vault, and email |
 
 ## Prerequisites
 
