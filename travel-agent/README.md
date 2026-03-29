@@ -37,7 +37,7 @@ Travel Request
 
 ## Setup
 
-1. Get an Anima API key at [console.anima.email](https://console.anima.email)
+1. Get an Anima API key at [console.useanima.sh](https://console.useanima.sh)
 2. Get an OpenAI API key at [platform.openai.com](https://platform.openai.com)
 
 ```bash

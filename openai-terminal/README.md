@@ -12,7 +12,7 @@ A terminal-based chat agent built with the [OpenAI Agents SDK](https://github.co
 ## Prerequisites
 
 - Python 3.10+
-- An [Anima API key](https://anima.email)
+- An [Anima API key](https://useanima.sh)
 - An [OpenAI API key](https://platform.openai.com)
 
 ## Setup
@@ -53,5 +53,5 @@ Type `quit` or `exit` to stop the agent.
 
 ## Learn More
 
-- [Anima Documentation](https://docs.anima.email)
+- [Anima Documentation](https://docs.useanima.sh)
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)

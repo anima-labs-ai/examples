@@ -216,7 +216,7 @@ async function main(): Promise<void> {
 
 		divider("Done");
 		console.log("Card provisioning example completed successfully.");
-		console.log("See https://docs.anima.email for the full Cards API reference.");
+		console.log("See https://docs.useanima.sh for the full Cards API reference.");
 	} catch (error) {
 		console.error("Error:", error);
 		process.exit(1);

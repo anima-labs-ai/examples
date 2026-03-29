@@ -12,7 +12,7 @@ A streaming AI agent built with the [Vercel AI SDK](https://sdk.vercel.ai) that 
 ## Prerequisites
 
 - Node.js 18+
-- An [Anima API key](https://anima.email)
+- An [Anima API key](https://useanima.sh)
 - An [OpenAI API key](https://platform.openai.com)
 
 ## Setup
@@ -53,6 +53,6 @@ Type `quit` or `exit` to stop the agent.
 
 ## Learn More
 
-- [Anima Documentation](https://docs.anima.email)
+- [Anima Documentation](https://docs.useanima.sh)
 - [Vercel AI SDK — Tools](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling)
 - [@anima-labs/sdk](https://www.npmjs.com/package/@anima-labs/sdk)

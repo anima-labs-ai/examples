@@ -13,7 +13,7 @@ An AI-powered email agent that creates an Anima inbox, monitors incoming message
 ## Prerequisites
 
 - Python 3.10+
-- An [Anima API key](https://anima.email)
+- An [Anima API key](https://useanima.sh)
 - An [OpenAI API key](https://platform.openai.com)
 
 ## Setup
@@ -49,5 +49,5 @@ You can adjust the polling interval and system prompt by editing the constants a
 
 ## Learn More
 
-- [Anima Documentation](https://docs.anima.email)
+- [Anima Documentation](https://docs.useanima.sh)
 - [Anima Python SDK](https://pypi.org/project/anima-labs/)

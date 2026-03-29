@@ -14,7 +14,7 @@ Provision virtual debit cards for AI agents, create spending policies to control
 ## Prerequisites
 
 - Node.js 18+
-- An [Anima API key](https://anima.email)
+- An [Anima API key](https://useanima.sh)
 
 ## Setup
 
@@ -50,5 +50,5 @@ Provision virtual debit cards for AI agents, create spending policies to control
 
 ## Learn More
 
-- [Anima Documentation](https://docs.anima.email)
+- [Anima Documentation](https://docs.useanima.sh)
 - [@anima-labs/sdk](https://www.npmjs.com/package/@anima-labs/sdk)

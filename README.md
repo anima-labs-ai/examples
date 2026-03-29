@@ -1,6 +1,6 @@
 # Anima Examples
 
-Example projects demonstrating the [Anima API](https://docs.anima.email) — unified identity infrastructure for AI agents.
+Example projects demonstrating the [Anima API](https://docs.useanima.sh) — unified identity infrastructure for AI agents.
 
 Each example is a standalone project you can clone and run. They cover email, messaging, virtual cards, and agent orchestration using the Anima SDKs.
 
@@ -18,7 +18,7 @@ Each example is a standalone project you can clone and run. They cover email, me
 
 ## Prerequisites
 
-- An Anima API key — sign up at [anima.email](https://anima.email)
+- An Anima API key — sign up at [useanima.sh](https://useanima.sh)
 - Python 3.10+ (for Python examples) or Node.js 18+ (for TypeScript examples)
 - An [OpenAI API key](https://platform.openai.com) (for AI-powered examples)
 
@@ -40,7 +40,7 @@ Each example is a standalone project you can clone and run. They cover email, me
 
 ## Documentation
 
-Full API documentation is available at [docs.anima.email](https://docs.anima.email).
+Full API documentation is available at [docs.useanima.sh](https://docs.useanima.sh).
 
 ## License
 
