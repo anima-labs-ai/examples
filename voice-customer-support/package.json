@@ -1,0 +1,18 @@
+{
+  "name": "voice-customer-support",
+  "version": "1.0.0",
+  "description": "Inbound voice support agent using Anima",
+  "main": "main.ts",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "dependencies": {
+    "@anima-labs/sdk": "^0.1.0",
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
