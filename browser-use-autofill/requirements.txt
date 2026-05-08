@@ -1,0 +1,5 @@
+anima>=0.1.0
+browser-use>=0.1.40
+playwright>=1.47.0
+python-dotenv>=1.0.1
+langchain-openai>=0.2.0

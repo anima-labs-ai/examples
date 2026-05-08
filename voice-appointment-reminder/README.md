@@ -1,15 +1,13 @@
 # Voice Appointment Reminder
 
-An appointment reminder agent that calls patients to confirm upcoming appointments and offers to process copay payments via Anima cards. Demonstrates multi-capability usage combining voice and card payment in a single workflow.
+An appointment reminder agent that calls patients to confirm upcoming appointments. Demonstrates outbound voice calling with Anima.
 
 ## How It Works
 
-1. Provisions a phone number and a virtual card via Anima
+1. Provisions a phone number via Anima
 2. Iterates through a list of upcoming appointments
 3. Calls each patient with a friendly reminder
-4. If the patient confirms, offers to process their copay payment
-5. Uses Anima cards to handle the payment transaction
-6. Logs confirmation and payment status for each appointment
+4. Logs confirmation status for each appointment
 
 ## Prerequisites
 
